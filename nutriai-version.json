@@ -1,1 +1,1 @@
-{"version":"20260611-1532","url":"https://drive.usercontent.google.com/download?id=1wo4FmCNsNUfawdFXMJh3RD9EZ-qhAeNV&export=download&authuser=0&confirm=t","changelog":"fix: repair duplicate timestamps from old drag bugs — missing meals should reappear"}
+{"version":"20260611-1545","url":"https://drive.usercontent.google.com/download?id=15Fs9Rv43oaDjMohMUU056wu0f5_jLLUY&export=download&authuser=0&confirm=t","changelog":"fix: meals con timestamp null/invalido ahora visibles (fallback mediodía)"}
