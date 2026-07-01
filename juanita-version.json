@@ -1,5 +1,5 @@
 {
-  "version": 3,
-  "url": "https://drive.usercontent.google.com/download?id=1rLsvrXBT5L0H3H_EyVpjQI0pcivBSfgb&export=download&authuser=0&confirm=t",
-  "changelog": "v3: descarga de actualizaciones in-app (ya no abre el browser)"
+  "version": 4,
+  "url": "https://drive.usercontent.google.com/download?id=1LUN0cuHFGvJrXvusNyO937feyVNjWy37&export=download&authuser=0&confirm=t",
+  "changelog": "fix buscador, descarga actualizaciones, timer notificacion en vivo, timer editable, alarma con pantalla apagada"
 }
