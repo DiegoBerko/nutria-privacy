@@ -1,5 +1,5 @@
 {
-  "version": 13,
-  "url": "https://drive.usercontent.google.com/download?id=1n1rAMREpuCJ4BgZo08T8nx5Cc2E26hIc&export=download&authuser=0&confirm=t",
-  "changelog": "fix: shopping list layout, edición de ítems y selector de unidades"
+  "version": 14,
+  "url": "https://drive.usercontent.google.com/download?id=1zvajmB4s2cp5GVKw4No6nJucbu_HTq9d&export=download&authuser=0&confirm=t",
+  "changelog": "feat: shopping UX - tap=tachar, longpress=editar, swipe con degradé rojo + confirmación, conversión de unidades"
 }
