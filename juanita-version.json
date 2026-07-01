@@ -1,5 +1,5 @@
 {
-  "version": 8,
-  "url": "https://drive.usercontent.google.com/download?id=1WzA9-QbwKp9RzwFSJSy41he_cU_ZjAGh&export=download&authuser=0&confirm=t",
-  "changelog": "fix: navigationBarsPadding en bottomBar de RecipeDetail y EditRecipe (v8)"
+  "version": 9,
+  "url": "https://drive.usercontent.google.com/download?id=1aIk_YQD3dk7eRBXsV0sRaeB4gRpde5mP&export=download&authuser=0&confirm=t",
+  "changelog": "fix: usar cacheDir en lugar de external storage para instalar APK"
 }
