@@ -1,5 +1,5 @@
 {
-  "version": 7,
-  "url": "https://drive.usercontent.google.com/download?id=1D4JQKviYvNfL9w6mKMhK009GoKywTcE6&export=download&authuser=0&confirm=t",
-  "changelog": "fix install crash + download progress bar"
+  "version": 8,
+  "url": "https://drive.usercontent.google.com/download?id=1WzA9-QbwKp9RzwFSJSy41he_cU_ZjAGh&export=download&authuser=0&confirm=t",
+  "changelog": "fix: navigationBarsPadding en bottomBar de RecipeDetail y EditRecipe (v8)"
 }
