@@ -1,5 +1,5 @@
 {
-  "version": 11,
-  "url": "https://drive.usercontent.google.com/download?id=1BgF97-DFpk2D643Exkbs2NPrxK-xkCL0&export=download&authuser=0&confirm=t",
-  "changelog": "fix: reemplazar DownloadManager por HttpURLConnection para descarga a cacheDir"
+  "version": 12,
+  "url": "https://drive.usercontent.google.com/download?id=1DefuDL9X6mpgZd4ZpNejrT_llsWbCOFe&export=download&authuser=0&confirm=t",
+  "changelog": "feat: lista de compras + cooktacora completos (etapa 2)"
 }
