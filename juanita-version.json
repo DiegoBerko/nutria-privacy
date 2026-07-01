@@ -1,5 +1,5 @@
 {
-  "version": 10,
-  "url": "https://drive.usercontent.google.com/download?id=16Ozt1Sgu-yIhQysVGwbM5oppt3NBHGg2&export=download&authuser=0&confirm=t",
-  "changelog": "feat: home hub + DB etapa 2 (shopping + cooktacora)"
+  "version": 11,
+  "url": "https://drive.usercontent.google.com/download?id=1BgF97-DFpk2D643Exkbs2NPrxK-xkCL0&export=download&authuser=0&confirm=t",
+  "changelog": "fix: reemplazar DownloadManager por HttpURLConnection para descarga a cacheDir"
 }
