@@ -1,5 +1,5 @@
 {
-  "version": 2,
-  "url": "https://drive.usercontent.google.com/download?id=1vXQ4zxfryPMtt6YjdH9POsaKcLlXtIVE&export=download&authuser=0&confirm=t",
-  "changelog": "v2: recetas de ejemplo (chocotorta, panqueques, ñoquis, tiramisú), concepto de partes para agrupar ingredientes y pasos por sección, timers en pasos clave"
+  "version": 3,
+  "url": "https://drive.usercontent.google.com/download?id=1rLsvrXBT5L0H3H_EyVpjQI0pcivBSfgb&export=download&authuser=0&confirm=t",
+  "changelog": "v3: descarga de actualizaciones in-app (ya no abre el browser)"
 }
