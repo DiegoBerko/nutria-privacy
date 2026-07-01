@@ -1,5 +1,5 @@
 {
-  "version": 4,
-  "url": "https://drive.usercontent.google.com/download?id=1LUN0cuHFGvJrXvusNyO937feyVNjWy37&export=download&authuser=0&confirm=t",
-  "changelog": "fix buscador, descarga actualizaciones, timer notificacion en vivo, timer editable, alarma con pantalla apagada"
+  "version": 5,
+  "url": "https://drive.usercontent.google.com/download?id=1fgqERhpuzssi4psGpJhuj4Qr4aIkRtbf&export=download&authuser=0&confirm=t",
+  "changelog": "fix startup crash (fresh Hilt compile)"
 }
