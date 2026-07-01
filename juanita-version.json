@@ -1,5 +1,5 @@
 {
-  "version": 9,
-  "url": "https://drive.usercontent.google.com/download?id=1aIk_YQD3dk7eRBXsV0sRaeB4gRpde5mP&export=download&authuser=0&confirm=t",
-  "changelog": "fix: usar cacheDir en lugar de external storage para instalar APK"
+  "version": 10,
+  "url": "https://drive.usercontent.google.com/download?id=16Ozt1Sgu-yIhQysVGwbM5oppt3NBHGg2&export=download&authuser=0&confirm=t",
+  "changelog": "feat: home hub + DB etapa 2 (shopping + cooktacora)"
 }
