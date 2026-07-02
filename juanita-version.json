@@ -1,5 +1,5 @@
 {
-  "version": 23,
-  "url": "https://drive.usercontent.google.com/download?id=1T82YMZcASScI1SWQW_csjtRtdbb5htkT&export=download&authuser=0&confirm=t",
-  "changelog": "fix: firma con keystore de NutriAI para evitar Play Protect"
+  "version": 24,
+  "url": "https://drive.usercontent.google.com/download?id=1otNZg_kKNpqOKGPiN1bKgJ_oGPB0hx9y&export=download&authuser=0&confirm=t",
+  "changelog": "fix: API 400 corregido + burbuja arrastrable"
 }
