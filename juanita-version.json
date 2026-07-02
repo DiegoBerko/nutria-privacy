@@ -1,5 +1,5 @@
 {
-  "version": 22,
-  "url": "https://drive.usercontent.google.com/download?id=1zUsnxPy1GV_eMVtxN2RZ5j8keOa-WlBw&export=download&authuser=0&confirm=t",
-  "changelog": "fix: Groq API + firma APK release"
+  "version": 23,
+  "url": "https://drive.usercontent.google.com/download?id=1T82YMZcASScI1SWQW_csjtRtdbb5htkT&export=download&authuser=0&confirm=t",
+  "changelog": "fix: firma con keystore de NutriAI para evitar Play Protect"
 }
