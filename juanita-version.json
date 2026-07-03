@@ -1,5 +1,5 @@
 {
-  "version": 30,
-  "url": "https://drive.usercontent.google.com/download?id=1U5Gv3Ou2-bSL5ATTVbUrR8ulNMZ28qmu&export=download&authuser=0&confirm=t",
-  "changelog": "fix: sanitize mejorado + TTS se corta con tap + step_id explícito en prompt"
+  "version": 31,
+  "url": "https://drive.usercontent.google.com/download?id=1OPguM2zeMXdhRbS4iNFVeAklJW5Qkv8z&export=download&authuser=0&confirm=t",
+  "changelog": "feat: agregar receta desde foto con visión IA"
 }
