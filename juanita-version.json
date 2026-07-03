@@ -1,5 +1,5 @@
 {
-  "version": 28,
-  "url": "https://drive.usercontent.google.com/download?id=1IhwkBEry55gwXxwZRuDj6v3niOwrygKf&export=download&authuser=0&confirm=t",
-  "changelog": "fix: add_to_shopping preserva recipeId/recipeName del contexto"
+  "version": 29,
+  "url": "https://drive.usercontent.google.com/download?id=1rbrAquIHEukMhiDqPeeV7pHQqprhmsbN&export=download&authuser=0&confirm=t",
+  "changelog": "fix: Juanita no lee nombres de funciones en respuestas"
 }
