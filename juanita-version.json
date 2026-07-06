@@ -1,5 +1,5 @@
 {
-  "version": 33,
-  "url": "https://drive.usercontent.google.com/download?id=1hDLBKdunlvSBmenQELQSnHdoP22fI9xW&export=download&authuser=0&confirm=t",
-  "changelog": "feat: dialog unificado de receta + config en menú + género en Juanita"
+  "version": 34,
+  "url": "https://drive.usercontent.google.com/download?id=1cXO95ROa2n8UxezBJFp-kHIWChk4xlVH&export=download&authuser=0&confirm=t",
+  "changelog": "feat: prompt de receta mejorado + dictado por voz en el dialog"
 }
