@@ -1,5 +1,5 @@
 {
-  "version": 38,
-  "url": "https://drive.usercontent.google.com/download?id=1vN3JB-sRyP1Y2IYeChZDRaNAKKHmgeq0&export=download&authuser=0&confirm=t",
-  "changelog": "feat: indicadores diff en lab edit mode + compartir receta como JSON o PDF + importar receta desde JSON"
+  "version": 39,
+  "url": "https://drive.usercontent.google.com/download?id=1JF1RcEA6_SQcW6MnBOizzx5nRLV2gEWF&export=download&authuser=0&confirm=t",
+  "changelog": "feat: drag & drop de pasos e ingredientes al editar receta + buscador inline sin overlay"
 }
