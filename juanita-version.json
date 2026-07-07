@@ -1,5 +1,5 @@
 {
-  "version": 37,
-  "url": "https://drive.usercontent.google.com/download?id=1Uvuj-1qDdcC2fM1dNOjTDFaQQvDqE0yV&export=download&authuser=0&confirm=t",
-  "changelog": "fix: diff view muestra solo diferencias, tipografía más grande y colores más contrastados"
+  "version": 38,
+  "url": "https://drive.usercontent.google.com/download?id=1vN3JB-sRyP1Y2IYeChZDRaNAKKHmgeq0&export=download&authuser=0&confirm=t",
+  "changelog": "feat: indicadores diff en lab edit mode + compartir receta como JSON o PDF + importar receta desde JSON"
 }
