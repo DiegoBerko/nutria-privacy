@@ -1,5 +1,5 @@
 {
-  "version": 45,
-  "url": "https://drive.usercontent.google.com/download?id=1Sd1T0R_gbadD5cqzzTrHY0-VnxoEV0c8&export=download&authuser=0&confirm=t",
-  "changelog": ""
+  "version": 46,
+  "url": "https://drive.usercontent.google.com/download?id=1X8TXjhE-W3w2BY-XoM4Im4rghxl79p3E&export=download&authuser=0&confirm=t",
+  "changelog": "Soporte Gemini (Google AI) — abstracción de proveedor IA, podés cambiar entre Groq y Gemini desde Configuración"
 }
