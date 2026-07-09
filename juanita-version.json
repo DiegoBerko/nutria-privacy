@@ -1,5 +1,5 @@
 {
-  "version": 47,
-  "url": "https://drive.usercontent.google.com/download?id=1MpK6ndgBqMu4kof_Su5qZgbBmZMZECRS&export=download&authuser=0&confirm=t",
-  "changelog": "Fix Gemini: actualizado a gemini-2.0-flash (el modelo 1.5 fue deprecado)"
+  "version": 48,
+  "url": "https://drive.usercontent.google.com/download?id=1_JHYhbu44sUFDcKb0SzYNCGWZbKPVQ5k&export=download&authuser=0&confirm=t",
+  "changelog": "Fix descarga de actualizaciones + soporte Gemini 2.0"
 }
