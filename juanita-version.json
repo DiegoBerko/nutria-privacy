@@ -1,5 +1,5 @@
 {
-  "version": 52,
-  "url": "https://drive.usercontent.google.com/download?id=1gEuumVBi6OHByHsR8RMGQNn5RPvFd6VW&export=download&authuser=0&confirm=t",
-  "changelog": "fix: instalación usando dm.getUriForDownloadedFile sin FileProvider"
+  "version": 53,
+  "url": "https://drive.usercontent.google.com/download?id=1QkC3a_uWEdbjgC_MUGYFFZ6s_o3fujb9&export=download&authuser=0&confirm=t",
+  "changelog": "fix: quitar FileProvider del manifest — crash en startup"
 }
