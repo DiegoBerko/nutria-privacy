@@ -1,5 +1,5 @@
 {
-  "version": 51,
-  "url": "https://drive.usercontent.google.com/download?id=1DAiypOnMVFOOudtMbAKH7338HpL8vy0o&export=download&authuser=0&confirm=t",
-  "changelog": "fix: instalación de actualización más robusta en Android 12+"
+  "version": 52,
+  "url": "https://drive.usercontent.google.com/download?id=1gEuumVBi6OHByHsR8RMGQNn5RPvFd6VW&export=download&authuser=0&confirm=t",
+  "changelog": "fix: instalación usando dm.getUriForDownloadedFile sin FileProvider"
 }
