@@ -1,5 +1,5 @@
 {
-  "version": 61,
+  "version": 62,
   "url": "https://drive.usercontent.google.com/download?id=1RkKFdNMAa4zis3MXo6gymsmIsgTX4Fhq&export=download&authuser=0&confirm=t",
-  "changelog": "mejora: progress bar interno al descargar actualización"
+  "changelog": "fix: analizador de recetas no crashea con tiempos en formato decimal"
 }
