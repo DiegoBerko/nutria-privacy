@@ -1,5 +1,5 @@
 {
-  "version": 56,
-  "url": "https://drive.usercontent.google.com/download?id=1lYYa_y7aA8i0tIX3yn2G7sFfH4Wra8HT&export=download&authuser=0&confirm=t",
-  "changelog": "fix: crash Android 13+ — registerReceiver sin flag exported"
+  "version": 57,
+  "url": "https://drive.usercontent.google.com/download?id=1n94sph5ZfBqWkPzv6IuKh9vdq3Dkj7__&export=download&authuser=0&confirm=t",
+  "changelog": "chore: eliminar Gemini — solo Groq"
 }
