@@ -1,5 +1,5 @@
 {
-  "version": 53,
-  "url": "https://drive.usercontent.google.com/download?id=1QkC3a_uWEdbjgC_MUGYFFZ6s_o3fujb9&export=download&authuser=0&confirm=t",
-  "changelog": "fix: quitar FileProvider del manifest — crash en startup"
+  "version": 54,
+  "url": "https://drive.usercontent.google.com/download?id=13ksHoEUk8edcycLpOj5MRgMB2esDvJpk&export=download&authuser=0&confirm=t",
+  "changelog": "fix: deshabilitar Android Backup — crash dialog al reinstalar"
 }
