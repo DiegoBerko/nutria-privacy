@@ -1,5 +1,5 @@
 {
-  "version": 54,
-  "url": "https://drive.usercontent.google.com/download?id=13ksHoEUk8edcycLpOj5MRgMB2esDvJpk&export=download&authuser=0&confirm=t",
-  "changelog": "fix: deshabilitar Android Backup — crash dialog al reinstalar"
+  "version": 55,
+  "url": "https://drive.usercontent.google.com/download?id=1bbeSAWQ6bpMEK2W-WEKDvsBrg09sPChP&export=download&authuser=0&confirm=t",
+  "changelog": "debug: pantalla de crash con stack trace copiable"
 }
