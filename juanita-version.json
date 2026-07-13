@@ -1,5 +1,5 @@
 {
-  "version": 55,
-  "url": "https://drive.usercontent.google.com/download?id=1bbeSAWQ6bpMEK2W-WEKDvsBrg09sPChP&export=download&authuser=0&confirm=t",
-  "changelog": "debug: pantalla de crash con stack trace copiable"
+  "version": 56,
+  "url": "https://drive.usercontent.google.com/download?id=1lYYa_y7aA8i0tIX3yn2G7sFfH4Wra8HT&export=download&authuser=0&confirm=t",
+  "changelog": "fix: crash Android 13+ — registerReceiver sin flag exported"
 }
