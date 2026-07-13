@@ -1,5 +1,5 @@
 {
-  "version": 58,
-  "url": "https://drive.usercontent.google.com/download?id=1HDKxseVlyQrL5O-K76rOyfKOLZh7uQuI&export=download&authuser=0&confirm=t",
-  "changelog": "fix: backup restaurado + download receiver corregido"
+  "version": 59,
+  "url": "https://drive.usercontent.google.com/download?id=1RkKFdNMAa4zis3MXo6gymsmIsgTX4Fhq&export=download&authuser=0&confirm=t",
+  "changelog": "fix: recetas de ejemplo no aparecen tras reinstalar"
 }
