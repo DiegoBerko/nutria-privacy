@@ -1,5 +1,5 @@
 {
-  "version": 59,
+  "version": 60,
   "url": "https://drive.usercontent.google.com/download?id=1RkKFdNMAa4zis3MXo6gymsmIsgTX4Fhq&export=download&authuser=0&confirm=t",
-  "changelog": "fix: recetas de ejemplo no aparecen tras reinstalar"
+  "changelog": "fix: recetas de ejemplo no aparecen en instalación nueva"
 }
