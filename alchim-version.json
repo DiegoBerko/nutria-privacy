@@ -1,1 +1,1 @@
-{"version":"20260805-1650","url":"https://drive.usercontent.google.com/download?id=152dzyqzZZH9qNFevWbzdw770e-BICBDf&export=download&authuser=0&confirm=t","changelog":"fix Groq: prompt tabla-por-tabla, thinking re-habilitado, extractJson robusto"}
+{"version":"20260805-1700","url":"https://drive.usercontent.google.com/download?id=1LPz7S0XYu2P6zspqTZbvDMkdkPHBTdKO&export=download&authuser=0&confirm=t","changelog":"fix: deshabilitar thinking de Qwen3 (reasoning_effort none)"}
