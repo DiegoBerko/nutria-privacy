@@ -1,1 +1,1 @@
-{"version":"20260805-1420","url":"https://drive.usercontent.google.com/download?id=1j2glI1OZCd9iuyxgcn7BxN6woxsim6Bc&export=download&authuser=0&confirm=t","changelog":"fix modelo Groq: reemplazado llama-4-scout por qwen3.6-27b (scout deprecado jun 2026)"}
+{"version":"20260805-1426","url":"https://drive.usercontent.google.com/download?id=1vRViEBU26r9QpgxXW6-A6damw2_cXcWG&export=download&authuser=0&confirm=t","changelog":"fix: strip bloque <think> de Qwen3 antes de parsear JSON"}
