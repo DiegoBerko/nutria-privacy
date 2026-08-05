@@ -1,1 +1,1 @@
-{"version":"20260805-1426","url":"https://drive.usercontent.google.com/download?id=1vRViEBU26r9QpgxXW6-A6damw2_cXcWG&export=download&authuser=0&confirm=t","changelog":"fix: strip bloque <think> de Qwen3 antes de parsear JSON"}
+{"version":"20260805-1432","url":"https://drive.usercontent.google.com/download?id=1JqMnMpl5yQ9y4HgNbbV335g5yBe-wt4A&export=download&authuser=0&confirm=t","changelog":"fix: deshabilitar thinking de Qwen3 con reasoning_effort: none"}
