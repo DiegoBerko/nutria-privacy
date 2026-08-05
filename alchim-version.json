@@ -1,1 +1,1 @@
-{"version":"20260805-1413","url":"https://drive.usercontent.google.com/download?id=1Sg4vID0JSH2bNv_mII5WEEJI-tmTRzIf&export=download&authuser=0&confirm=t","changelog":"PDF import nativo: PdfRenderer + FilePicker propios, prompt Groq mejorado para tablas de columnas"}
+{"version":"20260805-1420","url":"https://drive.usercontent.google.com/download?id=1j2glI1OZCd9iuyxgcn7BxN6woxsim6Bc&export=download&authuser=0&confirm=t","changelog":"fix modelo Groq: reemplazado llama-4-scout por qwen3.6-27b (scout deprecado jun 2026)"}
