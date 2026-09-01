@@ -1,1 +1,1 @@
-{"version":"20260831-1811","url":"https://drive.usercontent.google.com/download?id=17IyNzdRR6NzfCyxQ7jqpXeHCr08HBOM7&export=download&authuser=0&confirm=t","changelog":"Fix PDF block parsing: enable reasoning and improve prompt"}
+{"version":"20260831-2327","url":"https://drive.usercontent.google.com/download?id=1nDwfGN5i9vDAAIs0qsYKUxfAUWwSdSyZ&export=download&authuser=0&confirm=t","changelog":"Fix PDF parsing: correct column-based table structure and handle #REF! cells"}
