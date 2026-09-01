@@ -1,1 +1,1 @@
-{"version":"20260831-2327","url":"https://drive.usercontent.google.com/download?id=1nDwfGN5i9vDAAIs0qsYKUxfAUWwSdSyZ&export=download&authuser=0&confirm=t","changelog":"Fix PDF parsing: correct column-based table structure and handle #REF! cells"}
+{"version":"20260901-1406","url":"https://drive.usercontent.google.com/download?id=1JOj-6arSGrr9POQBTZ1maEVGXGfd3RC-&export=download&authuser=0&confirm=t","changelog":"Shrink PDF prompt and reduce pages to fix request too large error"}
