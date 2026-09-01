@@ -1,1 +1,1 @@
-{"version":"20260901-1511","url":"https://drive.usercontent.google.com/download?id=1-DZwAnzaPn67gljdx0-ASzxcXio_uhYR&export=download&authuser=0&confirm=t","changelog":"Reduce PDF render scale 2x→1.5x and JPEG quality 90→75 to fix request size"}
+{"version":"20260901-1524","url":"https://drive.usercontent.google.com/download?id=1KCHrxJAHPbJxj0nbYkLoMs3jTP_0ebme&export=download&authuser=0&confirm=t","changelog":"Fix token limit: disable reasoning_effort to free context for images"}
