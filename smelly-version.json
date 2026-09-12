@@ -1,1 +1,1 @@
-{"version":"20260912-1907","url":"https://drive.usercontent.google.com/download?id=1-CB7d0fUMee2ubciKMVujcwicpRM5VEd&export=download&authuser=0&confirm=t","changelog":"Fix: qwen3.6-27b + max_tokens explicito para evitar TPM limit"}
+{"version":"20260912-1911","url":"https://drive.usercontent.google.com/download?id=1SwqXRD6XkIBrP2ZAj30RYvCuLNZbl9Mw&export=download&authuser=0&confirm=t","changelog":"Fix: reasoning_effort none + strip think tags"}
