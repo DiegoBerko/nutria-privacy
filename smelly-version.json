@@ -1,1 +1,1 @@
-{"version":"20260912-1853","url":"https://drive.usercontent.google.com/download?id=1EEPToeSbnJ6THuxHTYT5dIBG-2CaRpic&export=download&authuser=0&confirm=t","changelog":"Cambio LLM: Groq (gsk) en lugar de Grok xAI"}
+{"version":"20260912-1858","url":"https://drive.usercontent.google.com/download?id=1rbIXUW5y4pPUy5QS76XdQH_QOgh4pdxS&export=download&authuser=0&confirm=t","changelog":"Fix: modelo llama-3.1-8b-instant (20k TPM), era qwen3.6 con limite 1k TPM"}
