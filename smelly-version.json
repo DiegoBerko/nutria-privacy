@@ -1,1 +1,1 @@
-{"version":"20260913-1603","url":"https://drive.usercontent.google.com/download?id=1nHGbEUn8qno06IJpyBsXQgc91ePGXefi&export=download&authuser=0&confirm=t","changelog":"Busqueda de imagen automatica con URL de Fragrantica desde Groq"}
+{"version":"20260913-1612","url":"https://drive.usercontent.google.com/download?id=1xavqPasDEfKnIVyk4ZJwfhgZOuiwrxHe&export=download&authuser=0&confirm=t","changelog":"Solo usar URL directa de Fragrantica para imagenes, sin fallback a Bing/DDG"}
