@@ -1,1 +1,1 @@
-{"version":"20260913-1705","url":"https://drive.usercontent.google.com/download?id=1gNA71lOIiF9eLXfOVny7ehCgf2YHo2Rj&export=download&authuser=0&confirm=t","changelog":"Groq devuelve error si no reconoce el perfume en lugar de inventar datos"}
+{"version":"20260913-1718","url":"https://drive.usercontent.google.com/download?id=1prYabUUG0m2YwWVR9e9iTARSaJBRiZ1G&export=download&authuser=0&confirm=t","changelog":"Busqueda RAG: DDG snippets como contexto para Groq, no inventa"}
