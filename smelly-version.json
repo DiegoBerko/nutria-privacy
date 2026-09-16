@@ -1,1 +1,1 @@
-{"version":"20260915-2345","url":"https://drive.usercontent.google.com/download?id=17VOVWwnW1Eh3Il72je7b2c6640WE1-IC&export=download&authuser=0&confirm=t","changelog":"Cambio de modelo Groq a llama-3.3-70b-versatile"}
+{"version":"20260916-1005","url":"https://drive.usercontent.google.com/download?id=1FB_4Wy_D1hbytD-PqSw2Hdum-_f5DRSJ&export=download&authuser=0&confirm=t","changelog":"Fix modelo Groq: openai/gpt-oss-120b, remove reasoning_effort"}
