@@ -1,1 +1,1 @@
-{"version":"20261019-2347","url":"https://drive.usercontent.google.com/download?id=1qJchBRWbzsTeBnHT_XWQ7kIUB7ssX4DO&export=download&authuser=0&confirm=t","changelog":"Fix días/bloques: descubre estructura (2 días × 3 bloques) y fuerza nombre por recorte; ya no mezcla Principal/Accesorio ni días"}
+{"version":"20261020-1148","url":"https://drive.usercontent.google.com/download?id=1PhRN_hY_MHNmnVjC8t2qNwE4KyhRaNq4&export=download&authuser=0&confirm=t","changelog":"Fix rate-limit ITPM Groq: espera 20s ante límite de tokens/min (el test e2e da 26/26 con el PDF de ejemplo)"}
