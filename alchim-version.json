@@ -1,1 +1,1 @@
-{"version":"20261019-2225","url":"https://drive.usercontent.google.com/download?id=1pEKiJAGTEUy5TRhvTUKTsUDx_bzQZJz8&export=download&authuser=0&confirm=t","changelog":"Fix importación PDF: no mezcla bloques/días (ignora fila Link) + links de demo con ícono ⓘ"}
+{"version":"20261019-2243","url":"https://drive.usercontent.google.com/download?id=1aghsZ90ikuW1AEgYtzLcj2ABCfLmVKMI&export=download&authuser=0&confirm=t","changelog":"Fix bloques de importación (lee tabla por tabla) + videos por bloque sin off-by-one + ícono 🎬 + sin label de bloque"}
