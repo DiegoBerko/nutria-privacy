@@ -1,1 +1,1 @@
-{"version":"20261020-0015","url":"https://drive.usercontent.google.com/download?id=1oav2r0sZ2szryFfLW5g6SCH3LedOJpyO&export=download&authuser=0&confirm=t","changelog":"UI: contenido no se pisa con la barra de navegacion del sistema"}
+{"version":"20261020-1140","url":"https://drive.usercontent.google.com/download?id=18d5aGSVfHsUEpoBmlXnTqnU3H8SFkpGx&export=download&authuser=0&confirm=t","changelog":"Fix crash al abrir la sesion (navigate via ref global)"}
