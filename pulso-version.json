@@ -1,1 +1,1 @@
-{"version":"20261020-1140","url":"https://drive.usercontent.google.com/download?id=18d5aGSVfHsUEpoBmlXnTqnU3H8SFkpGx&export=download&authuser=0&confirm=t","changelog":"Fix crash al abrir la sesion (navigate via ref global)"}
+{"version":"20261020-1348","url":"https://drive.usercontent.google.com/download?id=1YsemvjWLBXrCxKXl-Xca9dk3gpNY615r&export=download&authuser=0&confirm=t","changelog":"Fix crash al iniciar sesion: permiso VIBRATE + buzz try/catch"}
