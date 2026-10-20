@@ -1,1 +1,1 @@
-{"version":"20261019-2321","url":"https://drive.usercontent.google.com/download?id=1Cf8paZleD45owEePOKUD5v3UcLk0v2fR&export=download&authuser=0&confirm=t","changelog":"Fix hang en importación: timeouts Groq, menos retries, progreso visible, cierra PDF handles"}
+{"version":"20261019-2347","url":"https://drive.usercontent.google.com/download?id=1qJchBRWbzsTeBnHT_XWQ7kIUB7ssX4DO&export=download&authuser=0&confirm=t","changelog":"Fix días/bloques: descubre estructura (2 días × 3 bloques) y fuerza nombre por recorte; ya no mezcla Principal/Accesorio ni días"}
