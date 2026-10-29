@@ -1,1 +1,1 @@
-{"version":"20261022-0029","url":"https://drive.usercontent.google.com/download?id=1goYrd_wQdWVmmx1h6UAR8SE7BLqnKecv&export=download&authuser=0&confirm=t","changelog":"Fix videos desfasados: dedupe de URI duplicados (nombres en 2 líneas) al asignar links por ejercicio"}
+{"version":"20261029-1139","url":"https://drive.usercontent.google.com/download?id=1SVvxDBQ0n5R3wi4F5fGWKgbCk5snuOCo&export=download&authuser=0&confirm=t","changelog":"Fix videos desfasados por '/': parser de links PDF toma el Rect más cercano (no cruza diccionarios) — 39/39 anotaciones exactas"}
