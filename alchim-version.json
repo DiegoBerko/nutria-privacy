@@ -1,1 +1,1 @@
-{"version":"20261102-2133","url":"https://drive.usercontent.google.com/download?id=15Uilbh6NJorRW-xkzhnMwLm0BHkHEy_c&export=download&authuser=0&confirm=t","changelog":"Fix planes incompletos: espacia llamadas Groq (ITPM), más reintentos y rellena bloques vacíos desde one-shot sin mezclar estructura"}
+{"version":"20261102-2148","url":"https://drive.usercontent.google.com/download?id=1qFFW1c1-IDrjpyJFv5cWgc0ZeCCkjlD_&export=download&authuser=0&confirm=t","changelog":"Import no se corta si salís de la app: wake lock de CPU + pantalla despierta durante toda la importación"}
