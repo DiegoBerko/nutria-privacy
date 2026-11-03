@@ -1,1 +1,1 @@
-{"version":"20261102-2148","url":"https://drive.usercontent.google.com/download?id=1qFFW1c1-IDrjpyJFv5cWgc0ZeCCkjlD_&export=download&authuser=0&confirm=t","changelog":"Import no se corta si salís de la app: wake lock de CPU + pantalla despierta durante toda la importación"}
+{"version":"20261103-0022","url":"https://drive.usercontent.google.com/download?id=1W2HBLCfcBk73jRfi6ropgdkS8v7ko9YZ&export=download&authuser=0&confirm=t","changelog":"Fix import en 5s sin crops: fallback que ubica tablas por visión y recorta cada bloque"}
