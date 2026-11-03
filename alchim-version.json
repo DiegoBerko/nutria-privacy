@@ -1,1 +1,1 @@
-{"version":"20261103-0022","url":"https://drive.usercontent.google.com/download?id=1W2HBLCfcBk73jRfi6ropgdkS8v7ko9YZ&export=download&authuser=0&confirm=t","changelog":"Fix import en 5s sin crops: fallback que ubica tablas por visión y recorta cada bloque"}
+{"version":"20261103-0046","url":"https://drive.usercontent.google.com/download?id=18Hb_Rezdu42cB1mtXeb1qQYYrc0wId22&export=download&authuser=0&confirm=t","changelog":"Fix import lenta y día fantasma: tope 6 tablas, filtra días inventados, menos esperas entre llamadas"}
